@@ -1,6 +1,6 @@
 1st line
-2nd line 
-3rd line 
+2nd line some other change
+3rd line some other change
 4th line 
 5th line 
 6th line 
